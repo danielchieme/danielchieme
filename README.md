@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @danielchieme
-- 👀 I’m interested in computer development
-- 🌱 I’m currently learning app and web dev
+- 👋 Hi, I’m @danielchieme 
+- 👀 I am a developer, I majorly do fronted development and I work with a popular framework such as React.
+- 🌱 I’m currently working web dev
 - 💞️ I’m looking to collaborate on compiler dev
-- 📫 How to reach me 
+- 📫 email
 
 <!---
 danielchieme/danielchieme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
